@@ -15,3 +15,26 @@ code {
 .nav-Link {
   margin-left: 40px;
 }
+
+.universe-logo {
+  width: 180px;
+  height: 80px;
+  object-fit: contain;
+}
+
+#supportHero {
+  background-color: #387ed1;
+  color: white;
+}
+
+#supportHero a {
+  color: white;
+}
+
+#supportHero input {
+  padding: 12px;
+  width: 80%;
+  border-radius: 4px;
+  border: none;
+}
+
